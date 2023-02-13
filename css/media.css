@@ -16,3 +16,19 @@
         font-size: 9px;
     }
 }
+@media (max-width: 400px) {
+    .app-tit img {
+        width: 23%;
+    }
+    .app-tit1 img {
+        width: 98%;
+    }
+    .app-tit1 {
+        margin-top: -38px;
+        margin-left: 194px;
+    }
+    .pr p {
+        line-height: 30px;
+        font-size: 9px;
+    }
+}
