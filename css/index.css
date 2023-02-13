@@ -138,6 +138,59 @@ body {
     font-size: 13px;
     color: gray;
 }
+.emir{
+    width: 309px;
+    padding: 21px;
+    margin-top: 59px;
+    background: rgba(255, 255, 255, 0.97);
+    border: 1px solid rgba(0, 0, 0, 0.18);
+}
+.emir h2 {
+    font-size: 13px;
+}
+.emir h2 span {
+    color:#0095F6;
+}
+
+#app{
+    position: relative;
+}
+.app h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    color: rgba(45, 45, 45, 0.95);
+    font-weight: 10;
+    position: absolute;
+    top: -46px;
+    right: 760px;
+}
+.app-tit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 156px;
+    margin-left: -200px;
+}
+.app-tit img {
+    width: 10%;
+}
+.app-tit1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -50px;
+    margin-left: 194px;
+}
+.app-tit1 img{
+    width: 14%;
+}
+.pr p{
+    text-align: center;
+    margin-top: 100px;
+    line-height: 50px;
+}
 
 
 

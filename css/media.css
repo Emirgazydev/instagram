@@ -1,0 +1,18 @@
+@media (max-width: 370px) {
+    .app-tit img {
+        width: 23%;
+    }
+    .app-tit1 img {
+        width: 115%;
+    }
+    .app-tit1 {
+        margin-top: -34px;
+        margin-left: 194px;
+    }
+    .pr p {
+        text-align: center;
+        margin-top: 100px;
+        line-height: 30px;
+        font-size: 9px;
+    }
+}
