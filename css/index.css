@@ -127,7 +127,7 @@ body {
     margin-right: 5px;
     margin-top: 5px;
 }
-.logo h1 {
+.logo .a {
 
 
     color: #385185;
@@ -148,7 +148,7 @@ body {
 .emir h2 {
     font-size: 13px;
 }
-.emir h2 span {
+.emir h2 a {
     color:#0095F6;
 }
 
